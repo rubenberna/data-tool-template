@@ -1,10 +1,9 @@
 {
   "name": "data-tool-template",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
-  "author": "rubenberna",
+  "description": "Data tool library",
+  "author": "volvogroup",
   "license": "MIT",
-  "repository": "rubenberna/data-tool-template",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

@@ -1,10 +1,15 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { IntlProvider } from "react-intl";
 import { App } from "./components/App";
 import { ExampleIcon } from "./assets/icons/ExampleIcon";
 
 export const Component = ({ state }) => {
-  return <App state={state} />;
+  return (
+    <IntlProvider locale="en" defaultLocale="en">
+      <App state={state} />
+    </IntlProvider>
+  );
 };
 
 const metadata = {

@@ -51,6 +51,7 @@
     "dist"
   ],
   "dependencies": {
-    "node-sass": "^6.0.0"
+    "node-sass": "^6.0.0",
+    "react-intl": "^5.18.1"
   }
 }

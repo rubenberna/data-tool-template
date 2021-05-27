@@ -5,11 +5,11 @@ import "../styles/main.scss";
 const MESSAGES = defineMessages({
   title: {
     defaultMessage: "Example Component for: ",
-    id: "YOUR-DATA-TOO.home.title",
+    id: "[YOUR-DATA-TOOL].home.title",
   },
   subtitle: {
     defaultMessage: "What are you going to build?",
-    id: "YOUR-DATA-TOO.home.subtitle",
+    id: "[YOUR-DATA-TOOL].home.subtitle",
   },
 });
 

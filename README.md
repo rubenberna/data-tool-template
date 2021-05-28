@@ -8,15 +8,15 @@ Npm package template that can be imported to the Data Platform feed.
 
 - it uses the brand fonts
 - can be used with scss
-- it react-intl translation library
-- it has an easy structure.
+- it uses react-intl translation library
+- it has an easy-to-follow structure
 
 
 ## Install
 
 ```bash
 yarn install && yarn start
-cd example && yarn install && yarn start
+cd workbench && yarn install && yarn start
 ```
 
 ## Usage (develop package)
